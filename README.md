@@ -1,4 +1,4 @@
-# Internal-Multihack
+# CS:GO Internal-Multihack
 ## Internal Multihack + MM Injector
 ### Screenshots: 
 
